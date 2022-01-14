@@ -1,4 +1,4 @@
-package ru.yandex.aimshenik;
+package ru.yandex.aimshenik.tests;
 
 import org.junit.jupiter.api.*;
 

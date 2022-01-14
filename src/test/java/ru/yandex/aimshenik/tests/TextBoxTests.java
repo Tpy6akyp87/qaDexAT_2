@@ -1,4 +1,4 @@
-package ru.yandex.aimshenik;
+package ru.yandex.aimshenik.tests;
 
 import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.BeforeAll;
